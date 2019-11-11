@@ -1,5 +1,7 @@
 # CustomViewPager
 
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/46577836/68578631-aa68d000-0472-11ea-940c-fb3b8a2fbb9e.gif)
 ![First Screen](https://user-images.githubusercontent.com/46577836/68578402-37f7f000-0472-11ea-947b-578bbb1df253.png)
 ![Item – 1](https://user-images.githubusercontent.com/46577836/68578403-37f7f000-0472-11ea-86a3-8f13a211951d.png)
 ![Item – 2](https://user-images.githubusercontent.com/46577836/68578405-38908680-0472-11ea-967b-fd8868e6a461.png)
